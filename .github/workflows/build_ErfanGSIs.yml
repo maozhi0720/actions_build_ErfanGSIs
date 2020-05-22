@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://hu5.21_82a0dc2742_10.0.zipiui_RAPHAEL_20.5.21_82a0dc2742
-  ROM_NAME: ZenUI
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
