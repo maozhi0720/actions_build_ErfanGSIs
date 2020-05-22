@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
+  ROM_URL: https://hu5.21_82a0dc2742_10.0.zipiui_RAPHAEL_20.5.21_82a0dc2742
   ROM_NAME: ZenUI
   TZ: Asia/Shanghai
 
