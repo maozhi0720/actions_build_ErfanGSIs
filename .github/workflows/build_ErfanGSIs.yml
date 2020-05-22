@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hu5.21_82a0dc2742_10.0.zipiui_RAPHAEL_20.5.21_82a0dc2742
+  ROM_URL:  https://hugeota82a0dc2742_10.0.zipiui_RAPHAEL_20.5.21_82a0dc2742_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
