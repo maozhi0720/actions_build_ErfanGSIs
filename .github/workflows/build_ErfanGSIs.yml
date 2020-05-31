@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:  https://www.manosp.com/mandfx/dev/miui_MI9_20.5.29_10.0_manosp.com@990A9E9824.zip
+  ROM_URL:  https://hugeota.d.miui.com/20.5.29/miui_MI8_20.5.29_ad62ae901c_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
