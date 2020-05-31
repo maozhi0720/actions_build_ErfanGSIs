@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:  https://www.manosp.com/mandfx/dev/miui_RedmiNote7_20.5.30_10.0_manosp.com@8B66212EF8.zip
+  ROM_URL:  https://www.manosp.com/mandfx/dev/miui_MI9_20.5.29_10.0_manosp.com@990A9E9824.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
